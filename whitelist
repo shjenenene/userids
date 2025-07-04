@@ -1,4 +1,1 @@
-local whitelisted = { 
-273815347
-}
-return whitelisted
+[273815347, 123456789]
