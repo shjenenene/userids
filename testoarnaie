@@ -1,0 +1,4 @@
+
+Susano.InjectResource("any", [[
+  print("lua incarcat")
+]])
